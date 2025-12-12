@@ -1,5 +1,7 @@
 ﻿-- 24520602 -- Nguyễn Duy Hưng
 
+-- Mật khẩu: 12345@789
+
 CREATE DATABASE THUCHANH
 
 USE THUCHANH
